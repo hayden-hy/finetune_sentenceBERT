@@ -1,2 +1,6 @@
 mlm_ai_act/
 mlm_eurlex/
+mlm_ai_act/checkpoint-*/model.safetensors
+mlm_ai_act/checkpoint-*/optimizer.pt
+mlm_eurlex/checkpoint-*/model.safetensors
+mlm_eurlex/checkpoint-*/optimizer.pt
